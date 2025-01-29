@@ -1,4 +1,4 @@
----
+ ---
 layout: home
 title: Just the Class
 nav_exclude: true
